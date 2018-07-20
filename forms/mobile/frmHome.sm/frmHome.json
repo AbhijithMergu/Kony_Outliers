@@ -25,7 +25,9 @@
         }
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "FlexContainer0a46791246fc54a"
+    ],
     "containerweight": 100,
     "currentLocale": "default",
     "desktopweb": {
