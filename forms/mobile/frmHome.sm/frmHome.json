@@ -33,7 +33,7 @@
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "iPhone6",
+    "device": "GalaxyS5",
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "frmHome",
@@ -61,10 +61,10 @@
                 "titleBarRightSideView": "button",
                 "titleClosureLeftSideView": "",
                 "titleClosureRightSideView": "",
-                "visible": true
+                "visible": false
             }
         },
-        "titleBar": true
+        "titleBar": false
     },
     "isvisible": true,
     "kuid": "h4237e212ae34680b081e2cee0db5aca",
@@ -72,11 +72,11 @@
     "name": "kony.ui.Form2",
     "needappmenu": true,
     "paddinginpixel": false,
-    "platform": "iphone",
+    "platform": "android",
     "prevDevice": "iPhone6",
     "prevPlatform": "iphone",
     "retainscrollposition": false,
-    "shellCSS": "iOS_iPhone6",
+    "shellCSS": "and_GalaxyS5",
     "snapgridsize": 10,
     "snaptogrid": true,
     "titleBarSkin": "s9340465bfa34f438bbf44b4c1a4d4cb",
